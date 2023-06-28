@@ -3,6 +3,3 @@ coverage/
 .DS_Store
 
 *.log
-books.json
-categories.json
-*.csv
